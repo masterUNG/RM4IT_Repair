@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category">
+
+        <item>correctTABLE</item>
+        <item>environmentTABLE</item>
+        <item>governanceTABLE</item>
+        <item>internetTABLE</item>
+        <item>moneyTABLE</item>
+        <item>network_intrusionTABLE</item>
+        <item>server_networkTABLE</item>
+        <item>virusTABLE</item>
+        <item>wiless_networkTABLE</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="appewtc.masterung.rm4it">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconr"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GuestActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".ServiceActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".SignUpActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".SignInActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".InformationActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".CheckRiskActivity"  android:screenOrientation="portrait" />
+        <activity android:name=".ChooseRisk"  android:screenOrientation="portrait"/>
+        <!-- <activity -->
+        <!-- android:name=".Static" -->
+        <!-- android:screenOrientation="landscape" /> -->
+        <!-- <activity android:name=".ShowListView"></activity> -->
+
+        <activity
+            android:name=".Static"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ShowListView" />
+        <activity
+            android:name=".PrivateStatisticActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ReportActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".ReportGroupActivity"  android:screenOrientation="portrait"/>
+        <activity android:name=".ShowAllStatisticActivity"  android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>

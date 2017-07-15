@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RM4IT</string>
+
+    <string name="title_signup">โปรกรอกข้อมูลในช่องว่าง</string>
+    <string name="name">ชื่อ นามสกุล</string>
+    <string name="idcard">รหัสบัตรประชาชน</string>
+    <string name="province">จังหวัดที่ทำงาน</string>
+    <string name="position">ตำแหน่งงาน</string>
+    <string name="workyear">อายุงาน</string>
+    <string name="email">e-mailของจังหวัด</string>
+
+    <string name="risk1">กลุ่มเสี่ยงที่ 1</string>
+    <string name="risk2">กลุ่มเสี่ยงที่ 2</string>
+    <string name="risk3">กลุ่มเสี่ยงที่ 3</string>
+    <string name="risk4">กลุ่มเสี่ยงที่ 4</string>
+    <string name="risk5">กลุ่มเสี่ยงที่ 5</string>
+    <string name="risk6">กลุ่มเสี่ยงที่ 6</string>
+    <string name="risk7">กลุ่มเสี่ยงที่ 7</string>
+    <string name="risk8">กลุ่มเสี่ยงที่ 8</string>
+    <string name="risk9">กลุ่มเสี่ยงที่ 9</string>
+
+    <string name="risk1group">ด้านการใช้งานอย่างถูกต้อง</string>
+    <string name="risk2group">ด้านการเชื่อมโยงเครือข่ายแบบไร้สาย</string>
+    <string name="risk3group">ด้านการใช้อินเตอร์เน็ต</string>
+    <string name="risk4group">ด้านการเข้าถึงข้อมูลการใช้เครื่องแม่ข่ายและการใช้เครือข่าย</string>
+    <string name="risk5group">ด้านการป้องกันการบุกรุกเครือข่าย</string>
+    <string name="risk6group">ด้านการป้องันสิ่งแปลกปลอม (Virus)ในองค์กร</string>
+    <string name="risk7group">ด้านความเสี่ยงที่เกิดจากสิ่งแวดล้อม</string>
+    <string name="risk8group">ด้านการเงิน</string>
+    <string name="risk9group">ด้านธรรมาภิบาล</string>
+
+
+
+</resources>
